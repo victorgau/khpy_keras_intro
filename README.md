@@ -42,7 +42,8 @@
 #### 相關教學：
 
 * [台大李弘毅教授 YouTube](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
-* [政大蔡炎龍教授 Moocs](http://moocs.nccu.edu.tw/course/172/intro)
+* [政大蔡炎龍教授 - Python 實現人工智慧](https://ctld.video.nccu.edu.tw/km/1172)
+* [政大蔡炎龍教授 - 成為python數據分析達人的第一門課](https://ctld.video.nccu.edu.tw/km/1399)
 * [開源機器人技術(教學影片)](https://tw.openrobot.org/dir/index?sn=1090)
 * [莫煩Python](https://morvanzhou.github.io/)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
