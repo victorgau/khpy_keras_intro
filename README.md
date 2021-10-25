@@ -17,7 +17,7 @@
 * [Python機器學習簡介](https://docs.google.com/presentation/d/1KxhNe0bGwBu8HSfDAjkRCDyHW70NtVbZpFLQcUKIQVU/edit?usp=sharing)
 * [深度學習簡介](https://docs.google.com/presentation/d/13RsvD52eqs3PDSMKZ7IZ90Xx6uEBmFXIPtp5loRWLyc/edit?usp=sharing)
 * [神經網路分類](https://docs.google.com/presentation/d/1f_w5VGx4E9xBOG6c35I8Nkhokf2wgrxAbVuFg1_E95U/edit?usp=sharing)
-* [深度學習簡介](https://docs.google.com/presentation/d/13RsvD52eqs3PDSMKZ7IZ90Xx6uEBmFXIPtp5loRWLyc/edit?usp=sharing)
+* [Keras簡介](https://docs.google.com/presentation/d/1-dQFXCMqrQnI1J5r77JvVC9iYUORFZHgrglFHz6Jag8/edit?usp=sharing)
 
 ### 1. 文件導覽
 
