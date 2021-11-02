@@ -34,6 +34,7 @@
 ### 3. 自我挑戰
 
 * 挑選Kaggle上面的Titanic數據集來分析
+* 實作Transfer Learning
 
 ### 相關連結：
 
